@@ -31,7 +31,7 @@ python karser.py -f filename.txt -e
 ```
 As promised, Karser is really easy to use! 💡
 
-### Why did you do this?
+### Why did I create this
 I've always been an eager reader that devours novels and lately I've started reading non fiction where I've wanted to highligth and take notes of interesting things. When I realised that I had no way of nicely exporting those highlights or notes I figured I had to create something myself.
 
 I've also always been atracted to python's simplicity and potential but I never actually dived into it so I thought that since I had to write a simple script, this would probably be a good moment to try! So now, my first ever python script is released!
